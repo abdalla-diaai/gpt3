@@ -6,7 +6,7 @@ import { Brand, CTA, Navbar } from './components'
 function App() {
   return (
     <div className="App">
-        <div>
+        <div className='gradient_bg'>
             <Navbar />
             <Header />
         </div>
